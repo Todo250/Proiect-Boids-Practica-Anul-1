@@ -24,8 +24,8 @@ Customizare
 
 Necesitați
 ----------
--Python 3.8
--pygame 2.0
+- Python 3.8
+- pygame 2.0
 
 Rulare
 ------
