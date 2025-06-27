@@ -21,3 +21,13 @@ Customizare
 -   OBSST_COUNT - numarul de obstacole generat pe ecran
 -   AVOID_RADIUS, OBST_BUFFER - formeaza câmpul de respingere al obstacolelor, cand distanta este                                  mai mica decat adunarea celor doua constante, obiectul incepe să                                   vireze
 - UI_W, UI_H - marimile panoului de control, pozitionat în colțul din dreapta jos
+
+Necesitați
+----------
+Python 3.8
+pygame 2.0
+
+Rulare
+------
+
+python boids.py
