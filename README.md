@@ -30,4 +30,4 @@ Necesitați
 Rulare
 ------
 
-python boids.py
+- python boids.py
